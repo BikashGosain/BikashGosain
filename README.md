@@ -9,7 +9,7 @@ I'm passionate about learning new technologies and building projects that improv
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/BikashGosain)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/BikashGosain)  
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white](https://www.facebook.com/bikash.gosain.906))](https://facebook.com/BikashGosain)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bikash.gosain.906)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/BikashGosain)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bikashgosain0@gmail.com)
 
