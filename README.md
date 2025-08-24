@@ -1,59 +1,6 @@
 # Hi there, I'm Bikash Gosain 👋
 
-## 📂 Projects Highlight
-<div align="center">
-<table>
-<tr>
-
-<td align="center" width="300px">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="200"/><br>
-<strong>Portfolio</strong><br>
-Responsive personal portfolio website using HTML, CSS, JS<br><br>
-
-**Tech Stack:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>
-
-<a href="https://github.com/BikashGosain/portfolio">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-
-<td align="center" width="300px">
-<img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="200"/><br>
-<strong>Book Hub</strong><br>
-Full-stack e-commerce platform with Django and Python<br><br>
-
-**Tech Stack:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br><br>
-
-<a href="https://github.com/BikashGosain/Book-Hub">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-
-<td align="center" width="300px">
-<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="200"/><br>
-<strong>Blog App</strong><br>
-Blog web app with Django, user auth, and database optimization<br><br>
-
-**Tech Stack:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)<br><br>
-
-<a href="https://github.com/BikashGosain/Blog-App">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-
-</tr>
-</table>
-</div>
-
+## 📂 Projects Highlight <div align="center"> <table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/BikashGosain/portfolio/main/screenshot.png" width="200"/><br> **[Portfolio](https://github.com/BikashGosain/portfolio)**<br> Responsive personal portfolio website using HTML, CSS, JS </td> <td align="center"> <img src="https://raw.githubusercontent.com/BikashGosain/Book-Hub/main/screenshot.png" width="200"/><br> **[Book Hub](https://github.com/BikashGosain/Book-Hub)**<br> Full-stack e-commerce platform with Django and Python </td> <td align="center"> <img src="https://raw.githubusercontent.com/BikashGosain/Blog-App/main/screenshot.png" width="200"/><br> **[Blog App](https://github.com/BikashGosain/Blog-App)**<br> Blog web app with Django, user auth, and database optimization </td> </tr> </table> </div>
 
 **IT Enthusiast | Web & Software Developer | BSc. CSIT Student**  
 
