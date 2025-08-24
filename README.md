@@ -1,7 +1,5 @@
 # Hi there, I'm Bikash Gosain 👋
 
-## 📂 Projects Highlight <div align="center"> <table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/BikashGosain/portfolio/main/screenshot.png" width="200"/><br> **[Portfolio](https://github.com/BikashGosain/portfolio)**<br> Responsive personal portfolio website using HTML, CSS, JS </td> <td align="center"> <img src="https://raw.githubusercontent.com/BikashGosain/Book-Hub/main/screenshot.png" width="200"/><br> **[Book Hub](https://github.com/BikashGosain/Book-Hub)**<br> Full-stack e-commerce platform with Django and Python </td> <td align="center"> <img src="https://raw.githubusercontent.com/BikashGosain/Blog-App/main/screenshot.png" width="200"/><br> **[Blog App](https://github.com/BikashGosain/Blog-App)**<br> Blog web app with Django, user auth, and database optimization </td> </tr> </table> </div>
-
 **IT Enthusiast | Web & Software Developer | BSc. CSIT Student**  
 
 I'm passionate about learning new technologies and building projects that improve my skills. Currently, I'm focusing on web development, Django, and full-stack projects.  
