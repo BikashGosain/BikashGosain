@@ -52,7 +52,7 @@ I'm passionate about learning new technologies and building projects that improv
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BikashGosain&theme=tokyonight&no-bg=true&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=BikashGosain&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
