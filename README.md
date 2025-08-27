@@ -31,7 +31,7 @@ I'm passionate about learning new technologies and building projects that improv
 ## 📂 Projects Highlight
 ### Personal Portfolio Website
 - Designed a responsive website showcasing my projects using **HTML, CSS, and JavaScript**.
-- Link: [Portfolio](www.bikashgosain.com.np)
+- Link: [Portfolio](https://bikashgosain.com.np)
 
 ### Book Hub (E-Commerce Website)
 - Full-stack platform using **Django and Python**.
