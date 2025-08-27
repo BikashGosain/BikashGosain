@@ -31,12 +31,12 @@ I'm passionate about learning new technologies and building projects that improv
 ## 📂 Projects Highlight
 ### Personal Portfolio Website
 - Designed a responsive website showcasing my projects using **HTML, CSS, and JavaScript**.
-- Link: [Portfolio](https://github.com/BikashGosain/portfolio)
+- Link: [Portfolio](bikashgosain.com.np)
 
 ### Book Hub (E-Commerce Website)
 - Full-stack platform using **Django and Python**.
 - Features: Product listing, search, filtering, cart, checkout, user authentication.
-- Link: [Book Hub](https://github.com/BikashGosain/Book-Hub)
+- Link: [Book Hub](https://book-buysell.onrender.com)
 
 ### Blog Post Web Application
 - Built with **Django**, supporting user registration, post management, comments, and categories.
