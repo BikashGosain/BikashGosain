@@ -38,10 +38,10 @@ I'm passionate about learning new technologies and building projects that improv
 - Features: Product listing, search, filtering, cart, checkout, user authentication.
 - Link: [Book Hub](https://book-buysell.onrender.com)
 
-### Blog Post Web Application
+### BloggerNepal (Blog Post Web Application with Content Recommendation and Analytics)
 - Built with **Django**, supporting user registration, post management, comments, and categories.
 - Used Django ORM for database optimization.
-- Link: [Blog App](https://github.com/BikashGosain/Blog-App)
+- Link: [Blog App](https://github.com/BikashGosain/Web-Based-Blogging-Platform-with-Content-Recommendation-and-Analytics)
 
 
 ---
