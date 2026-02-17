@@ -4,19 +4,19 @@
 
 I'm a passionate computer science student from Bhaktapur, Nepal 🇳🇵. I went from writing my first lines of code to building and **Dockerizing** full-stack production applications. I specialize in Django-based web development and I'm currently leveling up in **DevOps** — learning Docker, CI/CD pipelines, and production deployment workflows.
 
-[![Visit My Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://www.bikashgosain.com.np/)
-[![All Repositories](https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain?tab=repositories)
+<a href="https://www.bikashgosain.com.np/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" /></a>
+<a href="https://github.com/BikashGosain?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/BikashGosain)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/BikashGosain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.bikashgosain.com.np/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bikash.gosain.906)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/BikashGosain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bikashgosain0@gmail.com)
+<a href="https://linkedin.com/in/BikashGosain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/BikashGosain" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://www.bikashgosain.com.np/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.facebook.com/bikash.gosain.906" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/BikashGosain" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="mailto:bikashgosain0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 ---
 
@@ -89,8 +89,8 @@ A fully-featured blogging platform **BloggerNepal**. This is my most complete pr
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain/BloggerNepal)
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge)](https://web-based-blogging-platform-with-content.onrender.com)
+<a href="https://github.com/BikashGosain/BloggerNepal" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://web-based-blogging-platform-with-content.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
 
 ---
 
@@ -113,7 +113,7 @@ A dedicated study portal giving students one central place to access notes, reso
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain)
+<a href="https://github.com/BikashGosain" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
@@ -132,8 +132,8 @@ Responsive portfolio website showcasing my projects, skills, and experience. Bui
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain/Portfolio.github.io)
-[![Live](https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bikashgosain.com.np/)
+<a href="https://github.com/BikashGosain/Portfolio.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.bikashgosain.com.np/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </td>
 
 <td align="center" width="260px">
@@ -145,8 +145,8 @@ Full-stack e-commerce platform for online book sales — product catalog, search
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain/Book-Hub)
-[![Live](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://book-buysell.onrender.com)
+<a href="https://github.com/BikashGosain/Book-Hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://book-buysell.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
 </td>
 
 <td align="center" width="260px">
@@ -158,7 +158,7 @@ Django blog with user auth, CRUD operations, role-based permissions (Default/Pre
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain)
+<a href="https://github.com/BikashGosain" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 </tr>
@@ -173,7 +173,7 @@ Multi-feature Django app — services, news, contact forms, email notifications,
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain)
+<a href="https://github.com/BikashGosain" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 <td align="center" width="260px">
@@ -196,7 +196,7 @@ A growing collection of Django & Python experiments — forms, ORM, email, pagin
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashGosain/demo)
+<a href="https://github.com/BikashGosain?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 </tr>
