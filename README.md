@@ -162,6 +162,19 @@ Django blog with user auth, CRUD operations, role-based permissions (Default/Pre
 </td>
 
 </tr>
+
+<tr>
+<td align="center" width="260px">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width="100"/><br><br>
+<strong>🔗 Django REST Framework</strong><br><br>
+A beginner REST API project with GET & POST endpoints built while learning DRF through YouTube tutorials.<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white"/><br><br>
+<a href="https://github.com/BikashGosain/Using-Django-Rest-Framework" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+
 <tr>
 
 <td align="center" width="260px">
