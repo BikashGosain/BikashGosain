@@ -172,6 +172,17 @@ A beginner REST API project with GET & POST endpoints built while learning DRF t
 </td>
 
 <td align="center" width="260px">
+<img src="https://cdn-icons-png.flaticon.com/512/2092/2092757.png" width="100"/><br><br>
+<strong>🔐 Django JWT Authentication</strong><br><br>
+JWT-based auth system with role-based access control and a custom HTML/CSS frontend — built while learning through YouTube tutorials.<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white"/><br><br>
+<a href="https://github.com/BikashGosain/Django-JWT-API-Token-Authentication" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+
+<td align="center" width="260px">
 <img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="100"/><br><br>
 <strong>📚 Book Hub</strong><br><br>
 Full-stack e-commerce platform for online book sales — product catalog, search, cart, checkout & authentication.<br><br>
