@@ -137,16 +137,13 @@ Responsive portfolio website showcasing my projects, skills, and experience. Bui
 </td>
 
 <td align="center" width="260px">
-<img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="100"/><br><br>
-<strong>📚 Book Hub</strong><br><br>
-Full-stack e-commerce platform for online book sales — product catalog, search, cart, checkout & authentication.<br><br>
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)<br><br>
-
-<a href="https://github.com/BikashGosain/Book-Hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://book-buysell.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
+<img src="https://cdn-icons-png.flaticon.com/512/3565/3565418.png" width="100"/><br><br>
+<strong>🍽️ Smart Recipe & Media Sharing Platform</strong><br><br>
+Django app with user auth, recipe CRUD, image/video uploads, recipe comments with image feedback, and a randomized media feed.<br><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/><br><br>
+<a href="https://github.com/BikashGosain/Smart-Recipe-Media-Sharing-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 <td align="center" width="260px">
@@ -173,6 +170,20 @@ A beginner REST API project with GET & POST endpoints built while learning DRF t
 <img src="https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white"/><br><br>
 <a href="https://github.com/BikashGosain/Using-Django-Rest-Framework" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
+
+<td align="center" width="260px">
+<img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="100"/><br><br>
+<strong>📚 Book Hub</strong><br><br>
+Full-stack e-commerce platform for online book sales — product catalog, search, cart, checkout & authentication.<br><br>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)<br><br>
+
+<a href="https://github.com/BikashGosain/Book-Hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://book-buysell.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
+</td>
+  
 </tr>
 
 <tr>
