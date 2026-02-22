@@ -114,6 +114,7 @@ A dedicated study portal giving students one central place to access notes, reso
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <a href="https://github.com/BikashGosain/Student-Study-Portal" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://student-study-portal-lrz7.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
 
 ---
 
