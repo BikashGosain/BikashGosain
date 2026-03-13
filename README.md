@@ -54,7 +54,7 @@ I'm a passionate computer science student from Bhaktapur, Nepal 🇳🇵. I went
 
 ## 🌟 Projects I'm Most Proud Of
 
-> These two projects are the highlight of my developer journey — real features, live deployments, and things I built that I'm genuinely proud of.
+> These projects are the highlight of my developer journey — real features, live deployments, and things I built that I'm genuinely proud of.
 
 ---
 
@@ -111,10 +111,41 @@ A dedicated study portal giving students one central place to access notes, reso
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <a href="https://github.com/BikashGosain/Student-Study-Portal" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://student-study-portal-lrz7.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
+
+---
+
+### 🏠 RentMS — Rent Management System
+> *"Built for landlords and tenants — because renting should be simple."*
+
+A full-featured rent management platform connecting landlords and tenants. Real-world features, live deployment, and a complete property rental workflow.
+
+| | |
+|---|---|
+| 🔐 **Auth & Roles** | Separate landlord and tenant roles with secure login |
+| ☁️ **Live on Render** | Deployed and running in production — visit it now! |
+| 📋 **Full Rental Workflow** | Properties, bookings, agreements, payments & complaints |
+
+**Key Features:**
+- User registration, login, and profile management
+- Property listing and management for landlords
+- Booking and rental agreement system
+- Payment tracking
+- Complaints and review system
+- Notifications system
+- Bookmark properties
+- Google OAuth login
+- Fully responsive design
+
+**Tech Stack:**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<a href="https://github.com/BikashGosain/Rent_Management_System" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://bikashgosain.com.np" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
 
 ---
 
