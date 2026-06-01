@@ -4,7 +4,7 @@
 
 I'm a passionate computer science student from Bhaktapur, Nepal 🇳🇵. I went from writing my first lines of code to building and **Dockerizing** full-stack production applications. I specialize in Django-based web development and I'm currently leveling up in **DevOps** — learning Docker, CI/CD pipelines, and production deployment workflows.
 
-<a href="https://www.bikashgosain.com.np/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" /></a>
+<a href="https://bikashgosain.github.io/Portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" /></a>
 <a href="https://github.com/BikashGosain?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
