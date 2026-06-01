@@ -165,7 +165,7 @@ Responsive portfolio website showcasing my projects, skills, and experience. Bui
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)<br><br>
 
 <a href="https://github.com/BikashGosain/Portfolio.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.bikashgosain.com.np/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://bikashgosain.github.io/Portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </td>
 
 <td align="center" width="260px">
