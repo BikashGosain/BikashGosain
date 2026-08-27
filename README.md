@@ -4,7 +4,7 @@
 
 I'm a passionate computer science student from Bhaktapur, Nepal 🇳🇵. I went from writing my first lines of code to building and **Dockerizing** full-stack production applications. I specialize in Django-based web development and I'm currently leveling up in **DevOps** — learning Docker, CI/CD pipelines, and production deployment workflows.
 > **📸 For detailed information, screenshots, and visuals of this and my other projects, visit my [Portfolio](https://bikashgosain.com.np/).**
-> 
+
 <a href="https://bikashgosain.github.io/Portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" /></a>
 <a href="https://github.com/BikashGosain?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -92,6 +92,7 @@ A fully-featured blogging platform **BloggerNepal**. This is my most complete pr
 
 <a href="https://github.com/BikashGosain/BloggerNepal" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://web-based-blogging-platform-with-content.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
+> **📸 For detailed information, screenshots, and visuals of this and my other projects, visit my [Portfolio](https://bikashgosain.com.np/).**
 
 ---
 
@@ -115,7 +116,7 @@ A dedicated study portal giving students one central place to access notes, reso
 
 <a href="https://github.com/BikashGosain/Student-Study-Portal" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://student-study-portal-lrz7.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
-
+> **📸 For detailed information, screenshots, and visuals of this and my other projects, visit my [Portfolio](https://bikashgosain.com.np/).**
 ---
 ---
 
@@ -162,6 +163,7 @@ A full-stack jewelry e-commerce platform **Panchakanya Collections**, built with
 
 <a href="https://github.com/BikashGosain/panchakanya-collections" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://panchakanya-collections.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
+> **📸 For detailed information, screenshots, and visuals of this and my other projects, visit my [Portfolio](https://bikashgosain.com.np/).**
 
 > **Note:** The GitHub repository is currently private. Please contact me if you would like access to the source code. The live demo may take a few seconds to load due to Render's free-tier cold start. If the demo is unavailable, please contact me for local setup instructions.
 
@@ -196,7 +198,7 @@ A full-featured rent management platform connecting landlords and tenants. Real-
 
 <a href="https://github.com/BikashGosain/Rent_Management_System" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://bikashgosain.com.np" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
-
+> **📸 For detailed information, screenshots, and visuals of this and my other projects, visit my [Portfolio](https://bikashgosain.com.np/).**
 ---
 
 ## 📂 Other Projects
