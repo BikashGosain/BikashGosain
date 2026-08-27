@@ -1,9 +1,10 @@
 # Hi there, I'm Bikash Gosain 👋
 
-**Full Stack Developer | BSc. CSIT Student @ Tribhuvan University | DevOps Learner**
+**Python/Django | Full-Stack Web Development | Software Engineering | BSc. CSIT Student @ Tribhuvan University | DevOps Learner**
 
 I'm a passionate computer science student from Bhaktapur, Nepal 🇳🇵. I went from writing my first lines of code to building and **Dockerizing** full-stack production applications. I specialize in Django-based web development and I'm currently leveling up in **DevOps** — learning Docker, CI/CD pipelines, and production deployment workflows.
-
+> **📸 For detailed information, screenshots, and visuals of this and my other projects, visit my [Portfolio](https://bikashgosain.com.np/).**
+> 
 <a href="https://bikashgosain.github.io/Portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" /></a>
 <a href="https://github.com/BikashGosain?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -114,6 +115,55 @@ A dedicated study portal giving students one central place to access notes, reso
 
 <a href="https://github.com/BikashGosain/Student-Study-Portal" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://student-study-portal-lrz7.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
+
+---
+---
+
+### 💎 Panchakanya Collections — Full-Stack Jewelry E-Commerce Platform
+
+> *"I didn't just build an online store — I built and deployed the complete e-commerce experience."*
+
+A full-stack jewelry e-commerce platform **Panchakanya Collections**, built with Django and PostgreSQL. The project includes product and category management, search and filtering, authentication, cart and wishlist functionality, Cloudinary media storage, responsive interfaces, and a production deployment on Render.
+
+| | |
+|---|---|
+| 🛒 **E-Commerce Platform** | Complete product browsing, search, filtering, cart, and wishlist functionality |
+| ☁️ **Cloudinary Media** | Product and category images stored and managed using Cloudinary |
+| 🚀 **Live on Render** | Deployed and running in production with PostgreSQL |
+| 📦 **Product Management** | Manage products, categories, pricing, stock, status, and product images |
+
+**Key Features:**
+- User registration, login, and authentication
+- Product listing and detailed product pages
+- Hierarchical category and subcategory system
+- Category-based product filtering
+- Product search and filtering
+- Price and metal-based filtering
+- Shopping cart functionality
+- Wishlist functionality
+- Product stock and status management
+- Product and category management dashboard
+- Product image management with Cloudinary
+- Responsive design for desktop and mobile
+- PostgreSQL database
+- Production static files with WhiteNoise
+- Deployed on Render
+
+**Tech Stack:**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+<a href="https://github.com/BikashGosain/panchakanya-collections" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://panchakanya-collections.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" /></a>
+
+> **Note:** The GitHub repository is currently private. Please contact me if you would like access to the source code. The live demo may take a few seconds to load due to Render's free-tier cold start. If the demo is unavailable, please contact me for local setup instructions.
 
 ---
 
