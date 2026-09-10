@@ -180,7 +180,7 @@ The application was deployed on **Microsoft Azure VM** using PostgreSQL, Nginx, 
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge\&logo=gunicorn\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
-<a href="https://bikashgosain.com.np" target="_blank">
+<a href="https://rent-management-system-1wyn.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-46E3B7?style=for-the-badge" />
 </a>
 <a href="https://github.com/BikashGosain/Rent_Management_System" target="_blank">
