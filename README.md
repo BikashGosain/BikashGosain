@@ -4,9 +4,9 @@
 
 I'm a **BSc. CSIT student at Tribhuvan University** and a Python/Django developer from Nepal 🇳🇵. I build full-stack web applications with a focus on **Django, REST APIs, PostgreSQL, authentication, responsive interfaces, and production deployment**.
 
-I've worked on real-world style projects including blogging platforms, rental management systems, e-commerce applications, and student portals. I've also deployed Django applications using **Microsoft Azure, Render, Docker, Nginx, Gunicorn, PostgreSQL, and Cloudinary**.
+I've worked on real-world style projects including blogging platforms, rental management systems, e-commerce applications, and student portals. I've also deployed Django applications using **Microsoft Azure, Render, Docker, Nginx, Gunicorn, PostgreSQL, Cloudflare and Cloudinary**.
 
-Currently, I'm expanding my skills in **DevOps, Docker, CI/CD, cloud deployment, and production infrastructure**.
+Currently, I'm expanding my skills in **React, advanced Django, DevOps, Docker, CI/CD, cloud deployment, and production infrastructure**.
 
 > 📸 **Want to see screenshots and detailed project information? Visit my [Portfolio](https://bikashgosain.com.np/projects.html).**
 
@@ -18,70 +18,23 @@ Currently, I'm expanding my skills in **DevOps, Docker, CI/CD, cloud deployment,
 </a>
 
 ---
+## 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1HfrfbXeuJ/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bikash__gosain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-gosain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@All_Music) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikashgosain0@gmail.com)
 
-## 👨‍💻 About Me
-
-* 🎓 BSc. CSIT student at **Tribhuvan University**
-* 🐍 Focused on **Python & Django development**
-* 🌐 Building **full-stack web applications**
-* 🔌 Experienced with **Django REST Framework and REST APIs**
-* 🗄️ Working with **PostgreSQL, MySQL, and SQLite**
-* 🔐 Building authentication and role-based access systems
-* ☁️ Experience deploying applications on **Microsoft Azure and Render**
-* 🐳 Learning and applying **Docker and containerized deployment**
-* ⚙️ Learning **CI/CD, Nginx, Gunicorn, and production workflows**
-* 🧪 Interested in clean code, debugging, testing, and maintainable systems
-* 📍 Based in Nepal 🇳🇵
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
+| Category | Technologies |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white) |
+| **APIs & Auth** | ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Databases** | ![SQLite](https://img.shields.io/badge/SQLite_(dev)-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(prod)-316192?style=flat-square&logo=postgresql&logoColor=white)|
+| **Deployment** | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-
-### Backend & APIs
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat\&logo=django\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
-
-### Cloud, Deployment & DevOps
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat\&logo=gunicorn\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat\&logo=render\&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
-
-### Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-
+🌱 **Currently learning:** React · Advanced Django
 ---
 
 # 🚀 Featured Projects
@@ -498,23 +451,12 @@ This approach has helped me move from basic Django projects toward building and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BikashGosain&show_icons=true&include_all_commits=true&count_private=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BikashGosain&layout=compact" height="170" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=BikashGosain&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://streak-stats.demolab.com/?user=BikashGosain&theme=dark&hide_border=true)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=BikashGosain&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BikashGosain&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
+## 🏆 GitHub Trophies![](https://github-profile-trophy.vercel.app/?username=BikashGosain&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🔝 Top Contributed Repo![](https://github-contributor-stats.vercel.app/api?username=BikashGosain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
