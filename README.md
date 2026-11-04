@@ -89,37 +89,28 @@ The project also includes REST API development and production deployment using *
 
 ---
 
-## 2. 🏠 RentMS
+## 2. 🏠 RentMS – Rent Management System
 
 ### Rental Management System with REST APIs & Azure Deployment
 
-RentMS is a full-stack rental management system designed to connect **landlords, tenants, and administrators** through a complete property rental workflow.
+A full-stack rental management platform built with Django and PostgreSQL to simplify property management and rental operations for property owners and tenants.
+
+The platform provides role-based dashboards, property and room listings, advanced search and filtering, booking management, rental agreement tracking, payment records, tenant-owner communication, complaint management, notifications, and REST APIs with JWT authentication.
 
 The application was deployed on **Microsoft Azure VM** using PostgreSQL, Nginx, and Gunicorn, with HTTPS and a custom domain.
 
 ### Key Features
 
-* User registration and authentication
-* Landlord and tenant roles
-* Property listing and management
-* Booking workflow
-* Rental agreement management
-* Payment tracking
-* Complaints and reviews
-* Property bookmarking
-* Notifications
-* Google OAuth authentication
-* OTP email verification
-* REST API development
-* JWT authentication
-* PostgreSQL database
-* Responsive frontend
-* Docker support
-* Microsoft Azure VM deployment
-* Nginx reverse proxy
-* Gunicorn application server
-* HTTPS and custom domain
-* Tested deployment on Render
+* Role-based authentication for Owners, Tenants, and Administrators.
+* Property and room listing management with search and filtering.
+* Property and room bookmarking with side-by-side comparison of up to 3 saved listings.
+* Booking requests with tenant messages and owner responses.
+* Tenant-owner communication through complaint discussions and responses with image attachments.
+* Rental agreements with signature status tracking.
+* Rent payment records and monthly payment management.
+* Complaint management, notifications, and reviews.
+* RESTful APIs using Django REST Framework.
+* Docker support and GitHub Actions CI/CD workflows.
 
 ### Tech Stack
 
